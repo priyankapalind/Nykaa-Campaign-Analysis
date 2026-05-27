@@ -186,7 +186,7 @@ Conversion Rate% = ROUND(DIVIDE(SUM(raw_data[Conversions]), SUM(raw_data[Leads])
  
 ### Dashboard Screenshot
  
-![Nykaa Dashboard](/dashboard_screenshot.png)
+![Nykaa Dashboard](/dashboard.png)
  
 ---
  
